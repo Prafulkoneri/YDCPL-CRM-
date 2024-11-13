@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281442768924",
+    "project_id": "ydcpl-crm",
+    "storage_bucket": "ydcpl-crm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281442768924:android:2dd3aaa025604a2cad67d9",
+        "android_client_info": {
+          "package_name": "com.ydcpl_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvXLLS4hl2l3VdpNodIQuQWXilw9ELdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
